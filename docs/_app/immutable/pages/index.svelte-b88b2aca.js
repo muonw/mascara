@@ -1,0 +1,1 @@
+import{S as r,i as o,s as i,t as c,h as l,g as u,n as a,d as f}from"../chunks/index-c3650d4a.js";function _(s){let t;return{c(){t=c("MuonW Mascara")},l(e){t=l(e,"MuonW Mascara")},m(e,n){u(e,t,n)},p:a,i:a,o:a,d(e){e&&f(t)}}}function m(s){return[]}class d extends r{constructor(t){super(),o(this,t,m,_,i,{})}}export{d as default};
