@@ -18,6 +18,6 @@ Then, import in your layout (i.e. `routes/__layout.svelte`):
 
 ```html
 <style lang="scss" global>
-@import '../../node_modules/@muonw/mascara/package/styles/main.scss';
+@import '../../node_modules/@muonw/mascara/src/lib/styles/main.scss';
 </style>
 ```
